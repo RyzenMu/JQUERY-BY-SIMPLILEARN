@@ -7,3 +7,11 @@
 7. mouseleave
 8. hover = mouseenter + mouseleave
 9. hover requires two functions as parameters
+10 fade in and fade out and fade toggle are animations.
+11. zoom in and zoom out are animations
+12. hide and show are animations
+13. .hide()
+14. .show()
+15. no setTimeOut() required for toggle, hide and show.
+16. just input milliseconds as a parameter.
+17. 
