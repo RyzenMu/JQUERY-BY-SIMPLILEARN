@@ -14,4 +14,34 @@
 14. .show()
 15. no setTimeOut() required for toggle, hide and show.
 16. just input milliseconds as a parameter.
-17. 
+17. fadeIn(2000)
+18. fadeOut(2000)
+19. fadeToggle(2000)
+20. slide effect is an important animation.
+21. stop() --> stops the animation.
+22. stop() is without a delay parameter.
+23. animate() is used for animation.
+24. animate({css}, delay, callback) has three parameters.
+25. animate has properties like left, right, top and bottom.
+26. callback function is a function called by another function when that function gets executed.
+27. slide Animation is mostly used animation.
+28. chaining is most commonly used in jQuery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
