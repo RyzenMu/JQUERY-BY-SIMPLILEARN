@@ -1,16 +1,14 @@
-#btn {
-    width: 200px;
-    font-size: 35px;
-}
-
-button {
-    width: 200px;
-    font-size: 30px;
-}
-
-#img1 {
+.div1 {
     height: 250px;
     width: 250px;
-    opacity: 0.4;
-    position: absolute;
+    border: 5px solid black;
+    border-radius: 50px;
+    margin: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.p1 {
+    text-align: center;
+    margin-top: 100px;
 }

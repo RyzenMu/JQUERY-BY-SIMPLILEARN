@@ -26,7 +26,13 @@
 26. callback function is a function called by another function when that function gets executed.
 27. slide Animation is mostly used animation.
 28. chaining is most commonly used in jQuery.
-
+29. ().html is the innerHTML
+30. ().text is the innerText.
+31. attr(). is the attribute
+32.attr('class') will return the attribute.
+33. attr('class', 'djf') will set the class attribute to dfg. 
+34. append and prepend.
+35. 
 
 
 
