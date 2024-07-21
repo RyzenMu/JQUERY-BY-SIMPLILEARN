@@ -36,4 +36,20 @@ $('document').ready(function(){
         $('.div1').append('<img src="../images/JQ.png.png" alt="jQuery" id="img1" width="250">');
 
     })
+
+    // before and after
+    $('#before').click(function(){
+        $('.div1').before('<h1>Before</h1>');
+    });
+    $('#after').click(function(){
+        $('.div1').after('<h1>this is after </h1>');
+    });
+
+    // remove and empty
+    $('#remove').click(function(){
+        $('.div1').remove();
+    });
+    $('#empty').click(function(){
+        $('.div1').empty();
+    });
 });

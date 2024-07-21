@@ -32,7 +32,32 @@
 32.attr('class') will return the attribute.
 33. attr('class', 'djf') will set the class attribute to dfg. 
 34. append and prepend.
-35. 
+35. before and after methods
+36. append and prepens with insert elements within the element.
+37. before and after with insert elements before and after the current element.
+38. remove and empty
+39. remove removes the entire element.
+40. empty removes only the text inside the element.
+41. to get jquery-ui attach two files to the html 1. jquery-ui.js and 
+42. jquery-ui.css
+43. jquery-ui.structure.css
+44. jquery-ui.theme.css
+45. jquery-ui file added after plain jquery.js
+46. main.js file added after jquery-ui.js file
+47. widget is an application or an component of an interface that enables an user to perform a action or service.
+47a. date picker is an important jQueryUi widget.
+47b. customization of date picker will be found in documentation.
+48. tooltip is an important widget.
+49. customization of tool tip will be found in jquery documentation.
+50.  show effects found in tooltip are slidedown, highlight, pulsate.
+51. hide effect found in tooltip are explode, 
+52. title attribute is important in tool tip input tag.
+53. tooltip is mostly used for information on images.
+54. accordion is an important widget
+55. for accordion main div have the selector, sub divs with h2 and div (for description).
+56. accordion can be customizable like collapsible, icons --> header, activeHeader, animate, event, 
+57. the default event is the click in accordion.
+58. 
 
 
 
