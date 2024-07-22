@@ -57,7 +57,17 @@
 55. for accordion main div have the selector, sub divs with h2 and div (for description).
 56. accordion can be customizable like collapsible, icons --> header, activeHeader, animate, event, 
 57. the default event is the click in accordion.
-58. 
+58. Message box or dialog box is an important widget
+59. it can be moved, closed and resizable.
+60. simple contents inside simpple div can be converted into dialog box.
+61. properties of dialog box are title, draggable, resizable, closeOnEscape, modal, autoOpen, 
+62. to open dialog box on button click, select button and pass "open" as a parameter, $("#...").click(function(){ $("#dialog").dialog("open")});
+63. Auto complete is an important widget in jQuery
+64. link input text box to a array.
+65. use source property inside autocomplete() method to link the array.
+66. autocomplete has properties like delay, minLength, 
+67. We can modify the widget properties with button clicks.
+68. use the code as let modal = $('#dialog1').dialog('option', 'modal');
 
 
 
