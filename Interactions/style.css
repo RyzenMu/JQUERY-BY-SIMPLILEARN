@@ -1,0 +1,25 @@
+.box {
+    border: 5px solid pink;
+    height: 100px;
+    width: 100px;
+    margin : 10px;
+    text-align: center;
+    
+}
+
+span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Sortable {
+    border: 2px solid blue;
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+}
+
+#img1 {
+    border: 2px solid pink;
+}

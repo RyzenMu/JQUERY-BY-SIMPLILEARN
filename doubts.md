@@ -68,6 +68,12 @@
 66. autocomplete has properties like delay, minLength, 
 67. We can modify the widget properties with button clicks.
 68. use the code as let modal = $('#dialog1').dialog('option', 'modal');
+69. draggable is an important interaction.
+70. customization for draggable are axis, cursor, opacity, containment, grid, snap, snapTolerence.
+71. sortable is an important interaction.
+72. sortable can be customized , they are opacity, cursor, containment, delay, distance, 
+73. resizable is an important interaction.
+74. customization for resizable are animate, containment, maxHeight, maxWidth,minHeight and minWidth, ghost, aspectRatio, 
 
 
 
